@@ -1,8 +1,8 @@
-# Maily-Taltic: Système de messagerie avec détection de spam IA
+# Maily: Système de messagerie avec détection de spam IA
 
 ## Description du projet
 
-**Maily-Taltic** est un système de messagerie en ligne, similaire à Gmail ou Outlook, avec une fonctionnalité avancée de détection de spam basée sur un modèle d'intelligence artificielle. L'objectif principal est d'offrir aux utilisateurs non seulement une messagerie classique, mais aussi un système capable de détecter automatiquement les spams et de s'adapter aux préférences personnelles de chaque utilisateur grâce à un apprentissage continu.
+**Maily** est un système de messagerie en ligne, similaire à Gmail ou Outlook, avec une fonctionnalité avancée de détection de spam basée sur un modèle d'intelligence artificielle. L'objectif principal est d'offrir aux utilisateurs non seulement une messagerie classique, mais aussi un système capable de détecter automatiquement les spams et de s'adapter aux préférences personnelles de chaque utilisateur grâce à un apprentissage continu.
 
 L'application est conçue pour être performante, scalable et sécurisée, avec une architecture moderne full-stack.
 
